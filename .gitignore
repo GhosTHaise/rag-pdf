@@ -2,3 +2,8 @@ data
 data/*
 
 .env
+
+# cache
+document_cache
+pipeline_checkpoints
+pipeline_storage
